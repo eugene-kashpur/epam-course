@@ -1,2 +1,2 @@
 # epam-course
-include 5 modules
+includes 5 modules
